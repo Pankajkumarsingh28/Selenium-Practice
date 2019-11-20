@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45" started-at="2019-10-23T14:30:00Z" finished-at="2019-10-23T14:30:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45" started-at="2019-10-23T14:30:00Z" finished-at="2019-10-23T14:30:00Z">
+      <class name="pk.com.RestAPITest">
+        <test-method status="PASS" signature="Rest()[pri:0, instance:pk.com.RestAPITest@22f71333]" name="Rest" duration-ms="0" started-at="2019-10-23T20:00:00Z" finished-at="2019-10-23T20:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest -->
+        <test-method status="PASS" signature="testcasenameRest()[pri:0, instance:pk.com.RestAPITest@22f71333]" name="testcasenameRest" duration-ms="0" started-at="2019-10-23T20:00:00Z" finished-at="2019-10-23T20:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasenameRest -->
+      </class> <!-- pk.com.RestAPITest -->
+      <class name="pk.com.SeleniumTest">
+        <test-method status="PASS" signature="selenium()[pri:0, instance:pk.com.SeleniumTest@6108b2d7]" name="selenium" duration-ms="10" started-at="2019-10-23T20:00:00Z" finished-at="2019-10-23T20:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium -->
+        <test-method status="PASS" signature="testcasename()[pri:0, instance:pk.com.SeleniumTest@6108b2d7]" name="testcasename" duration-ms="0" started-at="2019-10-23T20:00:00Z" finished-at="2019-10-23T20:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasename -->
+      </class> <!-- pk.com.SeleniumTest -->
+      <class name="pk.com.AppiumTest">
+        <test-method status="PASS" signature="Appium()[pri:0, instance:pk.com.AppiumTest@6cd8737]" name="Appium" duration-ms="0" started-at="2019-10-23T20:00:00Z" finished-at="2019-10-23T20:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium -->
+        <test-method status="PASS" signature="testcasenameapp()[pri:0, instance:pk.com.AppiumTest@6cd8737]" name="testcasenameapp" duration-ms="0" started-at="2019-10-23T20:00:00Z" finished-at="2019-10-23T20:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcasenameapp -->
+      </class> <!-- pk.com.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
